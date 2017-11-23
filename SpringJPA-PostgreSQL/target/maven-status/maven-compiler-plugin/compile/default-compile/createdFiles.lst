@@ -1,0 +1,10 @@
+com\springjpa\model\User.class
+com\springjpa\controller\ProductController.class
+com\springjpa\controller\WebController.class
+com\springjpa\SpringJpaPostgreSqlApplication.class
+com\springjpa\repo\UserRepository.class
+com\springjpa\model\Customer.class
+com\springjpa\repo\CustomerRepository.class
+com\springjpa\model\Product.class
+com\springjpa\repo\ProductRepository.class
+com\springjpa\controller\LoginController.class
